@@ -5,6 +5,8 @@ export { Icon as StarlightIcon } from "@astrojs/starlight/components";
 export { Icon as AstroIcon } from "astro-icon/components";
 // Custom components
 export { default as AnchorHeading } from "./AnchorHeading.astro";
+export { default as ArtifactsCIPipelineDiagram } from "./ArtifactsCIPipelineDiagram.astro";
+export { default as ArtifactsCIWorkflowDiagram } from "./ArtifactsCIWorkflowDiagram.astro";
 export { default as AiSearchIndexingDiagram } from "./AiSearchIndexingDiagram.astro";
 export { default as AiSearchNamespacesDiagram } from "./AiSearchNamespacesDiagram.astro";
 export { default as AiSearchOverviewDiagram } from "./AiSearchOverviewDiagram.astro";
